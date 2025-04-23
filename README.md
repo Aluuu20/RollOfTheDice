@@ -55,6 +55,11 @@ L'app è sviluppata con:
 
 
 ##  📸 Screenshot 
+Qui sotto trovi la schermata di gioco ancora non definitiva.
+
+<img src="https://github.com/user-attachments/assets/3f2e70a7-37e6-40de-a6fe-5b0626442e65" width="300"/>
+<img src="https://github.com/user-attachments/assets/e8f93994-34f7-47a5-ae0c-cb6fd86078d1" width="300"/>
+<img src="https://github.com/user-attachments/assets/9905729a-f0b9-4d30-a664-c6ce608bbb52" width="300"/>
 
 ---
 ## 💡 Requisiti minimi
