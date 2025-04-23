@@ -41,7 +41,9 @@ L'app è sviluppata con:
 🚧 *Sezione in fase di sviluppo...* 🚧
 Il gioco è semplice e intuitivo.
 Appena entrati, cliccate sul pulsante a forma di dado per accedere alla schermata di gioco.
-Qui vi verrà chiesto di inserire un numero da 1 a 6, quello che pensate possa uscire con il lancio del dado.
+
+Qui vi verrà chiesto di inserire un numero da **1 a 6**, quello che pensate possa uscire con il lancio del dado.
+
 Dopo averlo fatto, premete il pulsante per scoprire il risultato! 
 
 ---
