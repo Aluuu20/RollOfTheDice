@@ -48,7 +48,7 @@ Dopo averlo fatto, premete il pulsante per scoprire il risultato!
 ---
 
 ## 📌 Stato del Progetto  
-🔨 Progetto finito, verranno aggiunte funzionalità in seguito  
+🔨 Progetto finito, design da completare, verranno modificate e aggiunte funzionalità in seguito  
 
 ---
 
