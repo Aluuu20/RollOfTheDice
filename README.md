@@ -38,7 +38,6 @@ L'app è sviluppata con:
 ---
 
 ## 🚀 Utilizzo  
-🚧 *Sezione in fase di sviluppo...* 🚧
 Il gioco è semplice e intuitivo.
 Appena entrati, cliccate sul pulsante a forma di dado per accedere alla schermata di gioco.
 
