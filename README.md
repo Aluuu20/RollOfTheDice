@@ -43,7 +43,7 @@ L'app è sviluppata con:
 ---
 
 ## 📌 Stato del Progetto  
-🔨 **In elaborazione...**  
+🔨 Progetto finito, verranno aggiunte funzionalità in seguito  
 
 ---
 
@@ -52,10 +52,7 @@ L'app è sviluppata con:
 
 ---
 
-## 📜 Licenza  
-📌 
 
----
 
 ##  📸 Screenshot 
 
