@@ -1,7 +1,7 @@
 # 🎲 Roll Of The Dice  
 
 Un'app Android per generare numeri casuali con la rappresentazione grafica di un dado!  
-
+Grafica ancora in lavorazione
 ---
 
 ## 📌 Indice  
