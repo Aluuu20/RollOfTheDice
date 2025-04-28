@@ -6,7 +6,7 @@ Un'app Android per generare numeri casuali con la rappresentazione grafica di un
 
 ## 📌 Indice  
 - [📖 Descrizione](#descrizione)  
-- [⚙️ Tecnologie Utilizzate](#tecnologie-utilizzate)  
+- [⚙️ Tecnologie Utilizzate](#Tecnologie-utilizzate)  
 - [📥 Installazione](#installazione)  
 - [🚀 Utilizzo](#utilizzo)  
 - [📌 Stato del Progetto](#stato-del-progetto)  
