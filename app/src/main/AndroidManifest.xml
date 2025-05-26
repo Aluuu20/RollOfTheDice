@@ -10,11 +10,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.RollofTheDice"
+        android:theme="@style/Theme.RollOfTheDice"
         tools:targetApi="31">
-
         <activity
-            android:name=".PlayActivity"
+            android:name=".FourthActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RollOfTheDice" />
+        <activity
+            android:name=".ThirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -25,10 +31,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

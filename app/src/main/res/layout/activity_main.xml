@@ -6,45 +6,23 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:barrierMargin="@dimen/material_emphasis_high_type"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/mainphoto">
 
 
-    <ImageView
-        android:id="@+id/backgroundImage"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        android:src="@drawable/background_img"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true" />
-
-    <TextView
-        android:id="@+id/idtitolo"
-        android:layout_width="match_parent"
-        android:layout_height="157dp"
-        android:fontFamily="@font/bangers"
-        android:text="Roll of the Dice"
-        android:textAlignment="center"
-        android:textColor="@color/black"
-        android:textSize="60sp" />
-
-
-    <ImageButton
-        android:id="@+id/idbtnSwitch"
-        android:layout_width="match_parent"
-        android:layout_height="508dp"
-        android:layout_alignParentTop="true"
+    <Button
+        android:id="@+id/idButton"
+        android:layout_width="254dp"
+        android:layout_height="98dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginTop="298dp"
-        android:layout_marginBottom="-76dp"
-        android:background="@null"
-        android:contentDescription="Switch dice"
-        android:elevation="10dp"
-        android:fontFamily="@font/bangers"
-        android:textColor="@color/white"
-        android:textSize="24sp"
-        android:visibility="visible"
-        app:srcCompat="@drawable/buttonimage" />
+        android:layout_marginStart="79dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginBottom="85dp"
+        android:text=""
+        android:importantForAccessibility="no"
+        android:background="@android:color/transparent" />
 
 
 </RelativeLayout>

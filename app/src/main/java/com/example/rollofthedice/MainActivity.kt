@@ -4,7 +4,6 @@ import android.content.Intent
 import android.os.Bundle
 
 import android.widget.Button
-import android.widget.ImageButton
 
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -18,13 +17,13 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
-        val buttonClick = findViewById<ImageButton>(R.id.idbtnSwitch)
+        val buttonClick = findViewById<Button>(R.id.idButton)
         buttonClick.setOnClickListener {
-            val intent = Intent(this, PlayActivity::class.java)
+            val intent = Intent(this, SecondActivity::class.java)
             startActivity(intent)
         }
 
-         // val textView = findViewById<TextView>(R.id.idtitolo)
+        // val textView = findViewById<TextView>(R.id.idtitolo)
 
-        }
     }
+}
