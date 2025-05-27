@@ -39,16 +39,16 @@ L'app è sviluppata con:
 
 ## 🚀 Utilizzo  
 Il gioco è semplice e intuitivo.
-Appena entrati, cliccate sul pulsante a forma di dado per accedere alla schermata di gioco.
-
+Appena entrati, cliccate sul roll, vi porterà su un'altra schermata.
+In questa schermata lanceremo il dado, clicca sul pulsante e lancialo!
 Qui vi verrà chiesto di inserire un numero da **1 a 6**, quello che pensate possa uscire con il lancio del dado.
-
-Dopo averlo fatto, premete il pulsante per scoprire il risultato! 
-
+Se volete continuare a giocare cliccate su ritenta.
 ---
 
-## 📌 Stato del Progetto  
+## 📌 Stato del Progetto
+
 🔨 PROGETTO COMPLETATO
+
 ---
 
 ## 👤 Autore  
