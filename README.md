@@ -43,6 +43,7 @@ Appena entrati, cliccate sul roll, vi porterà su un'altra schermata.
 In questa schermata lanceremo il dado, clicca sul pulsante e lancialo!
 Qui vi verrà chiesto di inserire un numero da **1 a 6**, quello che pensate possa uscire con il lancio del dado.
 Se volete continuare a giocare cliccate su ritenta.
+
 ---
 
 ## 📌 Stato del Progetto
